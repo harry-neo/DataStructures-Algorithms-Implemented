@@ -1,7 +1,8 @@
-1 : L2 R3
-2 : L4 R5
-4 : 
-5 : 
-3 : L6 R7
-6 : 
-7 : 
+Original Array:
+1 3 5 3 1 
+Array after removing duplicates:
+1 3 5 
+Original Array:
+1 1 2 3 2 5 3 4 1 2 
+Array after removing duplicates:
+1 2 3 5 4 
